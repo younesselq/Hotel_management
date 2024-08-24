@@ -9,4 +9,4 @@ set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED True)
 
 # Ajoute l'exécutable
-add_executable(MonExecutable main.cpp)
+add_executable(MonExecutable src/main.cpp)
